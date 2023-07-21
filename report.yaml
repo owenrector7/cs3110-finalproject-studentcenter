@@ -1,0 +1,30 @@
+---
+# Members of your group.
+group:
+  - name: Akshay Undevia
+    netid: asu7
+  - name: Owen Rector
+    netid: ocr5
+  - name: Benjamin Mun
+    netid: bdm84
+  - name: Will Huey
+    netid: wph52
+# Your PM.
+pm:
+  name: Priya Srikumar
+  netid: ps735
+# Set to false if you don't want your gallery entry to be public.
+publish: true
+# Pithy title
+title: "Thirty One Tenors' - Student Center"
+# OK if this is a Cornell Github link, but public gallery viewers won't be able to see it.
+git-repo: https://github.coecis.cornell.edu/wph52/final_project_3110
+# If you have no demo screencast, replace the url string with an empty string ""
+demo-video-url: ""
+# Write a short, attention-grabbing description of your project.
+desc: >
+  Our project is a database storing Cornell CS classes and Cornell users 
+  (i.e. students and administrators). Users have the ability to search for classes by name,
+  credit, open status, instructor, department code, and class code. They can then add or drop 
+  classes from their own personal schedule, and view this schedule. Users will
+  search for classes through the terminal.
